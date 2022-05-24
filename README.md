@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/JustPasteMan/count.svg)
+
+
 - 👋 Hi, I’m @JustPasteMan
 - 👀 I’m interested in exposing pasters
 - 🌱 I’m currently learning UnknownCheats pastes
